@@ -2,9 +2,5 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## website contents
 
-Tattooed banh mi bespoke
-
-Drinking vinegar jean shorts aesthetic
-Helvetica
